@@ -27,4 +27,4 @@ Placed **2nd** in the private leaderboard using xgboost.
 
 -Construct more hero relationships (possibly team 1, team 2 hero pairwises or teammate pairs)
 
-  -It seems that xgboost (random forests) can cover these relationships fairly well and pairs of heroes don't come up to frequently so there runs the risk of overfitting
+  -It seems that xgboost (gradient boosted random forests) can cover these relationships fairly well and pairs of heroes don't come up to frequently so there runs the risk of overfitting
